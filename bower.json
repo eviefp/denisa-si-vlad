@@ -1,0 +1,21 @@
+{
+  "name": "denisa-si-vlad",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Vladimir Ciobanu"
+  ],
+  "license": "Unlicense",
+  "homepage": "https://github.com/vladciobanu/denisa-si-vlad",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "plyr": "^1.6.20"
+  }
+}
